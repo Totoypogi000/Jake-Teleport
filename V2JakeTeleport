@@ -253,7 +253,7 @@ DiscordButton.MouseLeave:Connect(function()
 end)
 
 DiscordButton.MouseButton1Click:Connect(function()
-    setclipboard("https://discord.gg/j5J9MDqY")
+    setclipboard("https://discord.gg/WRGGwJV2")
 end)
 
 -- Leave Server Button
@@ -262,7 +262,7 @@ LeaveButton.Size = UDim2.new(1,-20,0,28)
 LeaveButton.Position = UDim2.new(0,10,1,-32)
 LeaveButton.BackgroundColor3 = Color3.fromRGB(200,50,50)
 LeaveButton.TextColor3 = Color3.fromRGB(255,255,255)
-LeaveButton.Text = "❌ Leave Server"
+LeaveButton.Text = "❌ MAKATI BURAT KO KAYA LEAVE"
 LeaveButton.Font = Enum.Font.SourceSansBold
 LeaveButton.TextSize = 13
 LeaveButton.Parent = MainFrame
